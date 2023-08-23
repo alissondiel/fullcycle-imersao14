@@ -2,8 +2,6 @@
 /dist
 /node_modules
 
-nestjs/docker-compose.yaml
-
 # Logs
 logs
 *.log
