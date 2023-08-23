@@ -1,5 +1,4 @@
-# fullcycle-imersao14
-# Imersão Full Stack & FullCycle - Sistema de rastreabilidade de veículos
+# Full Stack & FullCycle - Imersão 14 - Sistema de rastreabilidade de veículos
 
 # Técnologias utilizadas (até o momento):
 # Programação
