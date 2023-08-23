@@ -9,13 +9,15 @@ Repositório do back-end feito com Nest.js (Backend)
 Execute os comandos:
 
 ```
-docker-compose up
+docker compose up
 ```
 
+O repositório está configurado para rodar em DevContainers, caso contrário deverá ser realizado o seguinte passo:
 Em outro terminal rode o comando para entrar no container do Docker:
 ```bash
 docker compose exec app bash
 ```
+
 
 E configure as dependências iniciais (rode somente dentro do container do Docker):
 ```
